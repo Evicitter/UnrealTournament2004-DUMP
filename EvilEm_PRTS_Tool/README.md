@@ -1,4 +1,6 @@
-﻿Инструмент для создания псевдо-динамических теней в UT2004. Последняя редакция 15 сентября 2006 года.
+﻿## Описание
+
+Инструмент для создания псевдо-динамических теней в UT2004. Последняя редакция 15 сентября 2006 года.
 
 ## Установка
 
@@ -14,6 +16,8 @@ CutdownPackages=Editor<br>
 CutdownPackages=XWebAdmin<br>
 CutdownPackages=XVoting<br>
 **EditPackages=EvilEm_RTS_Tool**<br>
+<br>
+Запустить "System\UCC.exe make"<br>
 
 ## Пример создания
 
