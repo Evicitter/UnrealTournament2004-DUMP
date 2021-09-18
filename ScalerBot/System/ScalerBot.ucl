@@ -1,0 +1,1 @@
+Mutator=(ClassName=ScalerBot.eeMutScalerBot,ConfigMenuClassName=ScalerBot.eeGUICfg_SB,GroupName=ScalerBot,IconMaterialName=MutatorArt.nosym,FriendlyName=ScalerBot.eeMutScalerBot.FriendlyName,Description=ScalerBot.eeMutScalerBot.Description,FriendlyName=ScalerBot.eeMutScalerBot.FriendlyName,FallbackName="SCALER BOT",FallbackDesc="This mutator used for control size of bots.")
